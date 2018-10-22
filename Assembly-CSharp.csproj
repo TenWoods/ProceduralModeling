@@ -53,7 +53,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Curve.cs" />
      <Compile Include="Assets\Scripts\Cylinder.cs" />
+     <Compile Include="Assets\Scripts\Pipe.cs" />
      <Compile Include="Assets\Scripts\Plane.cs" />
      <Compile Include="Assets\Scripts\ProcedualModelingBase.cs" />
      <Compile Include="Assets\Scripts\Quad.cs" />
